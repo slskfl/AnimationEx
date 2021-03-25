@@ -1,0 +1,3 @@
+include ':animationex2'
+include ':app'
+rootProject.name = "AnimationEx"
